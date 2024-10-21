@@ -1,0 +1,1 @@
+This is another document for searching word in this using C++. work only
